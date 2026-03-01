@@ -4,7 +4,7 @@ Founder at [Tile.dev](https://tile.dev), building AI-native mobile infrastructur
 
 I sit at the intersection of product strategy and technical execution. My strongest skill is product sense — knowing what to build, why it matters, and how to sequence it so it actually ships. That's what's taken me from running $10B+ product portfolios to founding a startup (wish me luck). 
 
-I also try to write code, architect systems, and ship alongside engineers, not just hand them specs (they still want the specs).
+I try to write code, architect systems, and ship alongside engineers, not just hand them specs (they still want the specs).
 
 ## 🔧 Currently Building
 
