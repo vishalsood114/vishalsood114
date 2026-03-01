@@ -1,8 +1,10 @@
 # Hi, I'm Vishal 👋
 
-Founder at [Tile.dev](https://tile.dev), building AI-native mobile infrastructure. Before this, I was Director of Products at Apple (Apple Pay) and Head of Checkout & Payments at Amazon.
+Founder at [Tile.dev](https://tile.dev), building AI-native mobile infrastructure for developers. Before this, I was Director of Products at Apple (Apple Pay) and Head of Checkout & Payments at Amazon.
 
-I sit at the intersection of product strategy and technical execution. My strongest skill is product sense — knowing what to build, why it matters, and how to sequence it so it actually ships. That's what's taken me from founding a startup to running $10B+ product portfolios. The difference is I also build — I write code, architect systems, and ship alongside engineers, not just hand them specs.
+I sit at the intersection of product strategy and technical execution. My strongest skill is product sense — knowing what to build, why it matters, and how to sequence it so it actually ships. That's what's taken me from running $10B+ product portfolios to founding a startup (wish me luck). 
+
+I also try to write code, architect systems, and ship alongside engineers, not just hand them specs (they still want the specs).
 
 ## 🔧 Currently Building
 
@@ -13,6 +15,12 @@ $ npx @tile.dev/cli init my-app
 $ tile build --platform ios android
 $ tile deploy --env production
 ```
+
+## 📌 Projects
+
+🚀 **[Tile.dev](https://tile.dev)** — AI-native mobile developer platform. SDK, CLI, docs, the whole stack.
+
+📖 **[acquired-ink](https://github.com/vishalsood114/acquired-ink)** — Convert 4-hour Acquired podcast episodes into book chapters. For people who think in ink.
 
 ## 🛠️ Tech Stack
 
@@ -26,16 +34,10 @@ $ tile deploy --env production
 ![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
-## 📌 Projects
-
-🚀 **[Tile.dev](https://tile.dev)** — AI-native mobile developer platform. SDK, CLI, docs, the whole stack.
-
-📖 **[acquired-ink](https://github.com/vishalsood114/acquired-ink)** — Convert 4-hour Acquired podcast episodes into book chapters. For people who think in ink.
-
 ## Background
 
 🏢 Founder, **Tile.dev** · 🍎 Ex-Apple (Apple Pay) · 📦 Ex-Amazon (Checkout & Payments) · 📍 Seattle
 
 ---
-
-💼 [LinkedIn](https://linkedin.com/in/vishalsood114) · 📧 vishalsood114@gmail.com
+[Twitter](https://x.com/vishalsood114)
+💼 [LinkedIn](https://linkedin.com/in/vishalsood114) 
