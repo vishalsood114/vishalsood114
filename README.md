@@ -37,5 +37,5 @@ $ tile deploy --env production
 🏢 Founder, **Tile.dev** · 🍎 Ex-Apple (Apple Pay) · 📦 Ex-Amazon (Checkout & Payments) · 📍 Seattle
 
 ---
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/vishalsood114)
+🐦 [Twitter](https://x.com/vishalsood114)
 💼 [LinkedIn](https://linkedin.com/in/vishalsood114) 
