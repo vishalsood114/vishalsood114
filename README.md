@@ -34,7 +34,7 @@ $ tile deploy --env production
 
 ## Background
 
-🏢 Founder, **Tile.dev** · 🍎 Ex-Apple (Apple Pay) · 📦 Ex-Amazon (Checkout & Payments) · 📍 Seattle
+🏢 Founder, **Tile.dev** · 🍎 Ex-Apple (Apple Pay) · 📦 Ex-Amazon (Checkout & Payments)
 
 ---
 🐦 [Twitter](https://x.com/vishalsood114)
