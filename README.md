@@ -22,6 +22,7 @@ $ tile deploy --env production
 
 📖 **[acquired-ink](https://github.com/vishalsood114/acquired-ink)** — Convert 4-hour Acquired podcast episodes into book chapters. For people who think in ink.
 
+🔭 **[producthub](https://github.com/vishalsood114/producthub)** — For PMs to summarize information from different sources (WIP)
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
